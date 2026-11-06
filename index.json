@@ -1,12 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T19:29:47Z",
+  "generatedAt": "2026-11-06T02:26:18Z",
   "plugins": [
     {
       "id": "cinecalidad",
       "name": "Cinecalidad",
       "type": "content",
-      "categories": ["movies", "series"],
+      "categories": [
+        "movies",
+        "series"
+      ],
       "description": "Películas y series en latino desde cinecalidad.am.",
       "author": "yxhelzvl",
       "version": "0.1.0",
@@ -24,13 +27,13 @@
       "categories": [],
       "description": "Convierte las URLs de los reproductores en streams reproducibles.",
       "author": "yxhelzvl",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "apiVersion": 1,
-      "downloadUrl": "https://raw.githubusercontent.com/YxhelZvl/plugin-prueba/main/dist/extractores/0.1.0/extractores-0.1.0.yx",
-      "sha256": "1438d2c2148d925216df66c44cefc55b7482299a616e76cff0f20c6e00730e82",
-      "sizeBytes": 3594,
+      "downloadUrl": "https://raw.githubusercontent.com/YxhelZvl/plugin-prueba/main/dist/extractores/0.1.1/extractores-0.1.1.yx",
+      "sha256": "ccd3d6d04f285b02de77e2b4250cc7cd3f0f2a479699238fc2f2949179af386f",
+      "sizeBytes": 3604,
       "status": "active",
-      "updatedAt": "2026-10-22T19:29:47Z"
+      "updatedAt": "2026-11-06T02:26:18Z"
     }
   ]
 }
